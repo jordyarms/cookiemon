@@ -148,7 +148,7 @@ Special `cookiemon-travel.html` pages embedded in external sites act as "travel 
 
 **Memory Example:**
 ```json
-{ "timestamp": 1723500000000, "event": "visitedSite_brutalistwebsites.com", "detail": "Visited brutalistwebsites.com" }
+{ "timestamp": 1723500000000, "event": "visitedSite_1rg.space", "detail": "Visited 1rg.space" }
 ```
 
 These visits contribute to Cookiemon's sense of exploration and can be used to trigger unique dialogue, achievements, or emotional responses.
