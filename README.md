@@ -106,7 +106,7 @@ Each type affects **mood responses, dialogue tone, and memory reactions**.
 - `addMemory(event, detail)` – Adds a memory if not already logged
 - `getMood()` – Returns dynamic mood based on time/personality
 - `getStatus()` – Returns fresh/stale/embittered based on neglect
-- `debugPanel()` – Optional visualizer for nerds
+- `debugPanel()` – Optional visualizer for ~nerds~ bakers
 
 ---
 
@@ -115,7 +115,7 @@ Each type affects **mood responses, dialogue tone, and memory reactions**.
 - Keep cookie **under 4096 bytes**
 - Use `encodeURIComponent(JSON.stringify(obj))` for storage
 - Be sure to `.find()` or `.some()` to avoid memory duplicates
-- Let nerds view/edit cookie if they want — part of the charm
+- Let ~nerds~ bakers view/edit cookie if they want — part of the charm
 
 ---
 
